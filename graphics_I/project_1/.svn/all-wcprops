@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/graficas_I/!svn/ver/25
+END
+brick.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/graficas_I/!svn/ver/13/brick.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/graficas_I/!svn/ver/6/base.h
+END
+brick3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/graficas_I/!svn/ver/25/brick3D.cpp
+END
+vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/graficas_I/!svn/ver/7/vector.cpp
+END
+sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/graficas_I/!svn/ver/22/sphere.cpp
+END
+bonus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/graficas_I/!svn/ver/22/bonus.cpp
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/graficas_I/!svn/ver/7/vector.h
+END
+brick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/graficas_I/!svn/ver/22/brick.cpp
+END
+base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/graficas_I/!svn/ver/22/base.cpp
+END
+sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/graficas_I/!svn/ver/20/sphere.h
+END
+bonus.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/graficas_I/!svn/ver/19/bonus.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/graficas_I/!svn/ver/6/Makefile
+END
